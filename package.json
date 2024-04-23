@@ -20,6 +20,6 @@
   },
   "homepage": "http://mentors.hacks.io/",
   "devDependencies": {
-    "gh-pages": "^1.0.0"
+    "gh-pages": "^5.0.0"
   }
 }
